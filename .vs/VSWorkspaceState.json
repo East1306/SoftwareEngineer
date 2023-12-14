@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\WebApp1",
+    "\\WebApp1\\Data",
+    "\\WebApp1\\Models",
     "\\WebApp1\\wwwroot",
     "\\WebApp1\\wwwroot\\assets",
     "\\WebApp1\\wwwroot\\assets\\images"
   ],
-  "SelectedNode": "\\WebApp1\\wwwroot\\assets\\images\\p2.jpg",
+  "SelectedNode": "\\WebApp1\\Models\\Role.cs",
   "PreviewInSolutionExplorer": false
 }
